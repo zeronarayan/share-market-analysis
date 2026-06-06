@@ -1,0 +1,1 @@
+import MultiTimezoneClock from '../components/MultiTimezoneClock/MultiTimezoneClock';\n\nexport default function ClockPage() {\n  return (\n    <div className=\"w-full\">\n      <MultiTimezoneClock />\n    </div>\n  );\n}
